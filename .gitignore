@@ -1,0 +1,17 @@
+models/
+mlruns/
+mlflow.db
+data/predictions.csv
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pkl
+make_commits.sh
+src/notes.md
+src/shap_notes.md
+src/api_notes.md
+src/features.md
+tests/notes.md
+notebooks/notes.md
+mlflow.md
+data/.gitkeep
